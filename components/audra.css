@@ -1,0 +1,30 @@
+.audra-container {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.audra-relationships {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.audra-image {
+  width: 200px;
+  object-fit: cover;
+}
+.audra-fragment1 {
+  display: contents;
+}
+.audra-text3 {
+  display: inline-block;
+}
+.audra-fragment2 {
+  display: contents;
+}
+.audra-text4 {
+  display: inline-block;
+}
